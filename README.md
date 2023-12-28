@@ -1,4 +1,8 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://c.tenor.com/ieLZEUAx8NMAAAAC/86anime-lena.gif">
+</p>
+
+<!--- ### Hi there 👋 --->
 
 <!--
 **rumirifai/rumirifai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
