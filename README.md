@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://gifdb.com/images/high/megumin-pleasantly-speaking-ev5t8jaha3ah61cp.gif">
+    <img src="https://gifdb.com/gif/megumin-watching-computer-zuit7hubikl7baa7.html?embed=true">
 </p>
 
 <!--- ### Hi there 👋 --->
