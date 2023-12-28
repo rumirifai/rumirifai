@@ -1,5 +1,6 @@
 <p align="center">
-    <img src="https://gifdb.com/gif/megumin-watching-computer-zuit7hubikl7baa7.html?embed=true">
+    <!--- <img src="https://tenor.com/view/megumin-gif-20864978"> --->
+    <img src="https://tenor.com/view/megumin-anime-konosuba-browsing-watching-gif-17942651"
 </p>
 
 <!--- ### Hi there 👋 --->
