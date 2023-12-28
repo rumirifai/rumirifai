@@ -1,6 +1,6 @@
 <p align="center">
-    <!--- <img src="https://tenor.com/view/megumin-gif-20864978"> --->
-    <img src="https://tenor.com/view/megumin-anime-konosuba-browsing-watching-gif-17942651">
+    <!--- <img src="https://media1.tenor.com/m/miXos3ZOO-kAAAAC/megumin.gif"> --->
+    <img src="https://media1.tenor.com/m/kZIiU4s3zzUAAAAd/megumin-anime.gif">
 </p>
 
 <!--- ### Hi there 👋 --->
