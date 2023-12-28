@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://c.tenor.com/ieLZEUAx8NMAAAAC/86anime-lena.gif">
+    <img src="https://gifdb.com/images/high/megumin-pleasantly-speaking-ev5t8jaha3ah61cp.gif">
 </p>
 
 <!--- ### Hi there 👋 --->
